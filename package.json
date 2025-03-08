@@ -1,0 +1,12 @@
+{
+  "name": "github-profile",
+  "version": "1.0.0",
+  "description": "GitHub Profile README Generator",
+  "main": "update-readme.js",
+  "scripts": {
+    "update": "node update-readme.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+} 
