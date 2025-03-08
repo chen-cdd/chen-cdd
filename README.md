@@ -15,14 +15,7 @@
 - ✈️ Travel enthusiast, seeking inspiration around the world
 - 💫 Rather than fearing the AI wave, I aim to be a navigator in this era, reshaping the coordinates of human-AI symbiosis
   </div>
-
-<!-- 添加贪吃蛇贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chen-cdd/chen-cdd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chen-cdd/chen-cdd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chen-cdd/chen-cdd/output/github-contribution-grid-snake.svg">
-</picture>
-
+  
 ---
 
 ### 🛠️ Tech Stack
