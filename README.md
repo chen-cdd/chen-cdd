@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>✨ Hello,world !  I'm Chen-cdd✨</h2>
+  <h2>✨ Hello,world !  I'm Chen-cdd（Weiduo）✨</h2>
   <h5>AI Product Manager |  AI Developer | Open Source Contributor</h5>
 </div>
 
