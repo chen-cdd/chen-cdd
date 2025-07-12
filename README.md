@@ -46,8 +46,6 @@
 
 <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=llama&logoColor=white" alt="Ollama" />
 
-<img src="https://img.shields.io/badge/-Gradio-F39019?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
-
 <img src="https://img.shields.io/badge/-Dify-4B32C3?style=flat-square&logo=dify&logoColor=white" alt="Dify" />
 
 <img src="https://img.shields.io/badge/-Coze-00ADD8?style=flat-square&logo=coze&logoColor=white" alt="Coze" />
@@ -89,6 +87,11 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
 
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+
+  <img src="https://img.shields.io/badge/-Gradio-F39019?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+
+  <img src="https://img.shields.io/badge/-Streamlit-F13C2D?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
 
 </div>
 
